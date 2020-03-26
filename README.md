@@ -3,7 +3,7 @@ Simple app built around the open source Recipe Puppy API. Build using only HTML,
 
 ## My Finished Project
 
-![Preview of inital code base - lights out game](docs/preview.gif)
+![Preview of inital code base - lights out game](docs/preview.png)
 
 ### What I've Learned
 
