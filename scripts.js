@@ -1,7 +1,9 @@
 
 function handleError(error) {
     const errorMessage = `Opps! Looks like there was an error. ${error}`;
+    console.log(errorMessage);
 }
+
 const baseEndPoint = `http://www.recipepuppy.com/api/`;
 const proxy = `https://cors-anywhere.herokuapp.com/`;
 const formButton = document.querySelector('form.search button');
